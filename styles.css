@@ -1,3 +1,13 @@
+:root {
+    --color-principal: #007bff;
+    --color-secundario: #ffcc00;
+    --gris-claro: #f4f4f4;
+    --texto-blanco: #ffffff;
+    --negro: #333;
+}
+
+
+
 * {
     margin: 0;
     padding: 0;
