@@ -40,3 +40,13 @@ document.addEventListener("DOMContentLoaded", function () {
         loadImages();
     });
 });
+
+ScrollReveal().reveal('header, h2, .card, .content-section, .card-2, .card-comentarios, footer', {
+    delay: 200,
+    duration: 800,
+    distance: '50px',
+    easing: 'ease-in-out',
+    origin: 'botton',
+    reset: true
+
+});
